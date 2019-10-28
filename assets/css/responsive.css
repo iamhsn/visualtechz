@@ -501,7 +501,7 @@
 }
 
 /* Large Mobile  :767px. */
-@media (max-width: 700px) {
+@media (max-width: 720px) {
 .container {
 	width:700px;
 }
